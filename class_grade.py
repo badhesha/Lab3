@@ -52,5 +52,5 @@ grades.sort()
 grades = grades[2:]
 grades = sum(grades)
 result = grades / 3
+
 print("Average Grade {0:.2f}%".format(result))
-print(grades, 'results', result)
